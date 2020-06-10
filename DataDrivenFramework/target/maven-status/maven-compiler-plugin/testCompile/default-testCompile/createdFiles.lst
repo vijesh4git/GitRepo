@@ -1,0 +1,17 @@
+com\w2a\pages\windowhandles.class
+com\w2a\testcases\Test1.class
+com\w2a\testcases\TestWebElement.class
+com\w2a\listeners\Listenersclass.class
+com\w2a\testcases\AlertTest1.class
+com\w2a\rough\statictraining1.class
+com\w2a\pages\AlertPage.class
+com\w2a\pages\WebElementPage.class
+com\w2a\utilities\ExtentReporterNG.class
+com\w2a\rough\fullstringrev.class
+com\w2a\rough\stringreverse.class
+com\w2a\testcases\WindowHandleTest.class
+com\w2a\pages\Customerpage.class
+com\w2a\utilities\ExcelUtilities.class
+com\w2a\base\TestBase.class
+com\w2a\rough\stringreverse2.class
+com\w2a\testcases\Testcase1.class
